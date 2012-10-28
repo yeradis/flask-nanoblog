@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d51feaa-e464-4249-9983-b31dc90b556a" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="flask-nanoblog.iws" />
@@ -439,7 +438,11 @@
       <created>1351440438489</created>
       <updated>1351440438489</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Readme stuff">
+      <created>1351440838996</created>
+      <updated>1351440838996</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
