@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% for post in posts %}
+        {% if post.visible %}
+            <h2>{{ post.content }}
+            <p>
+                {{ post.added.strftime('%H:%M %Y-%m-%d') }}
+            </p>
+        {% endif %}
+    {% endfor %}
+{% endblock %}

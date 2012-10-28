@@ -17,5 +17,6 @@ manager.add_command("runserver", Server(
     host = '0.0.0.0')
 )
 
+#Calling manager.run() prepares Manager instance to receive input from the command line, like runserver or shell
 if __name__ == "__main__":
     manager.run()

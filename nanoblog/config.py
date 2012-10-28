@@ -17,5 +17,4 @@ MONGODB_DB = 'nanoblog'
 # for instance. 
 # So when going to production CHANGE 'developmentkey' for a good key xD
 SECRET_KEY = 'developmentkey'
-
 DEBUG = True
