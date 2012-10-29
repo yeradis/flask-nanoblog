@@ -26,13 +26,13 @@ btw, to run this nanoblog, there are three ways:
 I will no go into details, but if you are here is because you have Python installed, so lets continue.
 
 1. Install MongoDB
-2. install pip
+2. install `pip`
 3. install nanoblog dependencies: `pip install  -r requirements.txt`
 
 Try nanoblog:
 
     python server.py runserver
 
-Now point your browser to http://localhost:5000
+Now point your browser to `http://localhost:5000`
 
 Voila!
