@@ -2,6 +2,7 @@ flask
 flask-script
 WTForms
 mongoengine
+pymongo
 flask_mongoengine
 tornado
 twisted
