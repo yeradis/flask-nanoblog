@@ -1,0 +1,11 @@
+{
+    "nanoblog": [
+        {% for post in posts %}
+            {% if post.visible %}
+                {"content":"{{ post.content|e }}",
+                 "added":"{{ post.added }}"},
+            {% endif %}
+        {% endfor %}
+]
+}
+
