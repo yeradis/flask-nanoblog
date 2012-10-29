@@ -14,3 +14,9 @@ This can be considered a Fork of http://docs.mongodb.org/manual/tutorial/write-a
 There is all what you need to do something with more value.
 
 I'd just did my version, a nano one!
+
+btw, to run this nanoblog, there are three ways:
+
+* server.py  : run flask apps using flask-script features like running a development server, auto-reload is nice :3
+* server-tornado.py  : run flask app under tornado through wsgi
+* server-twisted.py  : run flask app under twisted through wsgi
